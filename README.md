@@ -61,8 +61,8 @@ Last-Birth-Clock: 1794615426.6515539
 
 ## 👥 Project Team
 
-* **Syed Arshman Ali Shah (Lead):** Origin Server Architecture, Proxy Logic, XOR Cryptography.
-* **Mair Nasir:** Client Tkinter GUI, Binary Exception Handling, LAN/VPN Deployment.
+* **Syed Arshman Ali Shah (Lead):** Origin Server Architecture, LAN/VPN Deployment, XOR Cryptography.
+* **Mair Nasir:** Client Tkinter GUI, Binary Exception Handling, Proxy Logic.
 * **Syed Ramish Akhter:** Wireshark Packet Analysis, Network Topology, Documentation.
 * **Siraj Ul Haq:** TCP Performance Metrics, Bandwidth Reductions, Failure Validation.
 
